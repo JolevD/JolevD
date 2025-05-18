@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm JolevD</h1>
-- 🔭 I’m currently working on **AI Video gen project**
-
-- 🌱 I’m currently learning **Backend Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
